@@ -7,11 +7,11 @@
 
 ## Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TRIPLE-BBB&theme=dark" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=BernardoASantos&theme=dark" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TRIPLE-BBB&show_icons=true&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=BernardoASantos&show_icons=true&theme=dark" alt="GitHub Streak">
 </p>
 
 ## 💬 Contact 
