@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🤔 Oh manooo, I'm Bernardo
 
-<!--
-**BernardoASantos/BernardoASantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+-   I'm a **Eletrical and Computer Engineering Student** in the **Instituto Superior Técnico**. 
+-   I'm in the third year, almost finishing my BSc.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TRIPLE-BBB&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TRIPLE-BBB&show_icons=true&theme=dark" alt="GitHub Streak">
+</p>
+
+## 💬 Contact 
+You can reach me at [bernardoasantos2813@tecnico.ulisboa.pt](mailto:bernardoasantos2813@tecnico.ulisboa.pt)
