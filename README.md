@@ -1,7 +1,7 @@
 # 🤔 Hello my friends, I'm Bernardo
 
 ## About me
--   I'm a **Eletrical and Computer Engineering Student** in the **Instituto Superior Técnico**. 
+-   I'm a **Eletrical and Computer Engineering Student** in **Instituto Superior Técnico**. 
 -   I'm in the third year, almost finishing my BSc.
 
 
