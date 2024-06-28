@@ -1,4 +1,4 @@
-# 🤔 Oh manooo, I'm Bernardo
+# 🤔 Hello my friends, I'm Bernardo
 
 ## About me
 -   I'm a **Eletrical and Computer Engineering Student** in the **Instituto Superior Técnico**. 
